@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <title>Вместе под парусом</title>
+    </head>
+    <body>
+        <header class="main-header">
+            <nav class="main-header-nav">
+                <a href=«#»>
+                    <img src="img/placeholder.svg" alt="Логотип яхт-клуба Yacht Club">
+                </a>
+                <ul class="site-navigation">
+                    <li class="site-navigation-item">
+                        <a href="#">
+                            Наш клуб
+                        </a>
+                    </li>
+                    <li class="site-navigation-item">
+                        <a href="#">
+                            Регаты
+                        </a>
+                    </li>
+                    <li class="site-navigation-item">
+                        <a href="#">
+                            Команда
+                        </a>
+                    </li>
+                    <li class="site-navigation-item">
+                        <a href="#">
+                            Обучение
+                        </a>
+                    </li>
+                    <li class="site-navigation-item">
+                        <a href="#">
+                            Новости
+                        </a>
+                    </li>
+                    <li class="site-navigation-item">
+                        <a href="#">
+                            Контакты
+                        </a>
+                    </li>
+                    </ul>
+                        <a href="#">
+                            <img src="img/placeholder.svg" alt="Профиль">
+                        </a>
+                
+            </nav>
+        </header>
+        <main>
+            <section>
+                <h2>
+                    Вместе под парусом
+                </h2>
+                <img src="img/placeholder.svg" alt="Яхта в бухте">
+            </section>
+            <section class="events">
+                <p class="date">
+                    20 октября - 19 апреля
+                </p>
+                <a class="title" href="#">
+                    <h2>
+                        Стань частью команды
+                    </h2>
+                </a>
+                <p>
+                    Если вы давно хотели попробовать себя в яхтинге – сейчас самое лучшее время! Мы набираем команду будущих шкиперов. За 6 вы станете настоящим капитаном и уже в следующем сезоне сможете самостоятельно выйти в море!
+                </p>
+                <img src="img/placeholder.svg" alt="Мужчина на яхте">
+            </section>
+            <section class="events">
+                <p class="date">
+                    16 июля - 23 июля
+                </p>
+                <a class="title" href="#">
+                    <h2>
+                        Рожденные в воде
+                    </h2>
+                </a>
+                <p>
+                    Подарите детям настоящее приключение! День с морскими пиратами на корабле – это лучшая команда, веселые аниматоры, игры, соревнования, работа в команде и, конечно, море!
+                </p>
+                <img src="img/placeholder.svg" alt="Дети на яхте">
+            </section>
+            <section class="info">
+                <ul class="info">
+                    <h2>
+                    Контакты
+                </h2>
+                <li class="info">
+                    <h3>
+                        Адрес:
+                    </h3>
+                    <p class="info-item">
+                        г. Сочи, ул. Бзугу, 9
+                    </p>
+                </li>
+                <li class="info">
+                    <h3>
+                        Телефон:
+                    </h3>
+                    <a class="info-item" href="tel:8622620563">
+                        8 (622) 62-05-63
+                    </a>
+                </li>
+                <li class="info">
+                    <h3>
+                        e-mail:
+                    </h3>
+                    <a class="info-item" href="yachtclub-sochi@mail.ru">
+                        yachtclub-sochi@mail.ru
+                    </a>
+                </li>
+                <li class="info">
+                    <ul class="social-list">
+                        <h3>
+                            Мы в социальных сетях:
+                        </h3>
+                        <li class="social-list-item">
+                            <a href="#">
+                                <img src="img/placeholder.svg" alt="Facebook">
+                            </a>
+                        </li>
+                        <li class="social-list-item">
+                            <a href="#">
+                                <img src="img/placeholder.svg" alt="Twitter">
+                            </a>
+                        </li>
+                        <li class="social-list-item">
+                            <a href="#">
+                                <img src="img/placeholder.svg" alt="Instagram">
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            </section>
+        </main>
+        <footer>
+            <p class="logo">
+                <a href="#">
+                    <img src="img/placeholder.svg" alt="Логотип Yacht Club">
+                </a>
+            </p>
+            <p>
+                <a href="#">
+                    Политика конфиденциальности
+                </a>
+            </p>
+            <p>
+                Яхтклуб ©2020 Все права защищены
+            </p>
+            <ul class="footer-menu1-item">
+                <li class="footer-menu1-item">
+            <h2>
+                Компания
+            </h2>
+            <ul class="footer-menu2">
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        О нас
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Команда
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Новости
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Блог
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Галерея
+                    </a>
+                </li>
+            </ul>
+        </li>
+        <li class="footer-menu1-item">
+            <h2>
+                Яхт-клуб
+            </h2>
+            <ul class="footer-menu2-item">
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Правила
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Стоимость
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Анкета
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        FAQ
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Партнеры
+                    </a>
+                </li>
+            </ul>
+        </li>
+        <li class="footer-menu1-item">
+            <h2>
+                Услуги
+            </h2>
+            <ul class="footer-menu2-item">
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Аренда яхты
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Свадьба на яхте
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        День рождения
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Бизнес-встречи
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Прогулки
+                    </a>
+                </li>
+            </ul>
+        </li>
+        <li class="footer-menu1-item">
+            <h2>
+                Регаты
+            </h2>
+            <ul class="footer-menu2-item">
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Корпоративные регаты
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Календарь мероприятий
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Стать участником
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Результаты регат
+                    </a>
+                </li>
+                <li class="footer-menu2-item">
+                    <a href="#">
+                        Обучение
+                    </a>
+                </li>
+            </ul>
+            </li>
+            </ul>
+        </footer>
+    </body>
+</html>
