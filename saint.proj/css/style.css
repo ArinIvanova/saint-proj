@@ -1,0 +1,28 @@
+body {
+    font-family: "Playfair Display", serif;
+    font-size: 20px;
+    line-height: 27px;
+    color: #2d2829;
+    background-image: url("img/back.png") 1000px 1000px;
+  }
+ .cocktail{
+  position: absolute;
+  width: 484px;
+  height: 305px;
+  left: 808px;
+  top: 100px;
+ }
+.coffee{
+  position: absolute;
+  width: 484px;
+  height: 305px;
+  left: 808px;
+  top: 10px;
+}
+.food {
+  position: absolute;
+width: 696px;
+height: 653px;
+left: 74px;
+top: 10px;
+}
